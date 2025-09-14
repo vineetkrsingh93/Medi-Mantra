@@ -70,7 +70,7 @@ export default function SplashScreen({ onFinish }: { onFinish: () => void }) {
           transition={{ delay: 0.5, duration: 1 }}
           className="text-4xl font-extrabold text-gray-800 tracking-wide drop-shadow-md"
         >
-          Medi Mantra
+          Medi Mitra
         </motion.h1>
       </motion.div>
     </motion.div>

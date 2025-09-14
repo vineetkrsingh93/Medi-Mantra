@@ -8,7 +8,7 @@ import { Globe, LogIn, UserPlus } from 'lucide-react';
 
 const translations = {
   en: {
-    title: 'Medi Mantra',
+    title: 'Medi Mitra',
     login: 'Login',
     signup: 'Sign Up',
     language: 'Language',
@@ -20,7 +20,7 @@ const translations = {
     phone: 'Phone Number',
   },
   hi: {
-    title: 'हेल्थबॉट AI',
+    title: 'मेडी मित्रा',
     login: 'लॉगिन',
     signup: 'साइन अप',
     language: 'भाषा',
@@ -32,7 +32,7 @@ const translations = {
     phone: 'फोन नंबर',
   },
   or: {
-    title: 'ହେଲ୍ଥବଟ AI',
+    title: 'ମଧ୍ୟ ମିତ୍ର |',
     login: 'ଲଗଇନ',
     signup: 'ସାଇନ ଅପ',
     language: 'ଭାଷା',
